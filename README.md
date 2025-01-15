@@ -1,2 +1,22 @@
-# predicting-diabetes-mellitus
-​​Predicting Diabetes Mellitus​
+<td>
+<img src="/Images/Hackathons Banner.jpg" style="width:1275px;height:158.25px">
+</td>
+
+# Predicting Diabetes Mellitus with MATLAB&reg;
+This repository contains code and instructions enable you to develop machine learning algorithms that can predict if a patient admitted to the ICU has diabetes mellitus based on clinical data. Admittance in the ICU can be a chaotic and stressful time for patients, and they may forget to disclose that they have diabetes or they may not know, which can cause serious complications during the course of the care. This challenge offers participants the chance to see what it’s like to tackle a real-world issue while enhancing their technical skills.
+
+Click here to open the code and repository in MATLAB Online&trade;:
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]()
+!!! Grace will fill this in !!!
+
+## Files Overview
+### PredictingDiabetesMellitus.mlx
+The code tutorial that will explain how to access the data and how to get started on developing and presenting your own algorithms. 
+
+### Scoring Rubric.docx
+Contains the scoring rubric that will be used by the judges to score your submission. 
+
+### Instructions & Challenge Overview.docx
+Explains the challenge and provides some additional resources for the hackathon.
+
+**Copyright 2025 The MathWorks, Inc.**
