@@ -10,7 +10,7 @@ Click here to open the code and repository in MATLAB Online&trade;:
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/predicting-diabetes-mellitus)
 
 ## Files Overview
-### PredictingDiabetesMellitus.mlx
+### PredictingDiabetesMellitus.m
 The code tutorial that will explain how to access the data and how to get started on developing and presenting your own algorithms. 
 
 ### exampleTrain.zip
@@ -22,4 +22,4 @@ Contains the scoring rubric that will be used by the judges to score your submis
 ### Instructions & Challenge Overview.pdf
 Explains the challenge and provides some additional resources for the hackathon.
 
-**Copyright 2025 The MathWorks, Inc.**
+**Copyright 2025-2026 The MathWorks, Inc.**
